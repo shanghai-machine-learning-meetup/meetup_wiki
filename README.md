@@ -11,6 +11,7 @@ Go to 'Wiki' tab to read/edit content
 - Leaders
 - Main group
 - Fast.ai materials (video, scripts, wiki)
+- Practicals materials (custom prepared)
 
 ## Suggestions for changes
 - ??
