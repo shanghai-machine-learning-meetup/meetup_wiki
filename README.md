@@ -27,4 +27,5 @@ Process improvements are made at the end of every sprint. This ensures that the 
 - Practicals materials (custom prepared)
 
 ## Suggestions for changes
+- Add a longer practical session (5-8 hrs)
 - ??
