@@ -10,7 +10,7 @@ Would like to use Scrum's method (https://github.com/shanghai-machine-learning-m
 - The ScrumMaster prioritizes actions and lessons learned based on team direction.
 
 ## Current event activity
-- Watch video at home
+- Watch video at home (2 hrs)
 - Presentation (15-20 min)
 - Practical sesstion (~90 min)
 
@@ -24,4 +24,5 @@ Would like to use Scrum's method (https://github.com/shanghai-machine-learning-m
 ## Suggestions for changes
 - Add a longer practical session (5-8 hrs)
 - Switch to other platform (e.g. Floyd)
+- Use additional materials (e.g. datacamp)
 - ??
